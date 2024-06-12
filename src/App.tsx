@@ -1,4 +1,3 @@
-import React from 'react'
 import RegistrationForm from './assets/RegistrationFrom'
 
 const App = () => {
